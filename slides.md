@@ -62,7 +62,7 @@ Somos parte del equipo de desarrolladores de Cultura IT
     :initial="{ x: -80, opacity: 0}"
     :enter="{ x: 0, opacity: 1, transition: { delay: 2000, duration: 1000 } }">
     <div class="text-3xl">Sergio Romano</div>
-    <div class="text-1xl">.NET Software Developer</div>
+    <div class="text-1xl italic">.NET Software Developer</div>
     <ul class="text-1xl">
       <li> Cultura IT
       </li>
@@ -100,7 +100,7 @@ Somos parte del equipo de desarrolladores de Cultura IT
     :initial="{ x: -80, opacity: 0}"
     :enter="{ x: 0, opacity: 1, transition: { delay: 2000, duration: 1000 } }">
     <div class="text-3xl">Federico Fia Sare</div>
-    <div class="text-1xl">Senior Software Engineer | Technical Leader</div>
+    <div class="text-1xl italic">Senior Software Engineer | Technical Leader</div>
     <ul class="text-1xl">
       <li> Cultura IT
       </li>
@@ -152,20 +152,20 @@ img.pic{
 
 # Stack Tecnológico
 
-<div class="gap-y-4">
-  <div v-click> - .NET Framework </div>
-  <div v-click> - .NET Core </div>
-  <div v-click> - SQL Server </div>
-  <div v-click> - Vuejs </div>
-  <div v-click> - Razor pages + jQuery </div>
-  <div v-click> - Kendo framework </div>
-  <div v-click> - Bootstrap </div>
-  <div v-click> - Ionic </div>
-  <div v-click> - Angular 7 </div>
-  <div v-click> - Sqlite </div>
-  <div v-click> - Entity + OrmLite </div>
-  <div v-click> - Fluent </div>
-</div>
+<ul>
+  <li v-click> - .NET Framework </li>
+  <li v-click> - .NET Core </li>
+  <li v-click> - SQL Server </li>
+  <li v-click> - Vuejs </li>
+  <li v-click> - Razor pages + jQuery </li>
+  <li v-click> - Kendo framework </li>
+  <li v-click> - Bootstrap </li>
+  <li v-click> - Ionic </li>
+  <li v-click> - Angular 7 </li>
+  <li v-click> - Sqlite </li>
+  <li v-click> - Entity + OrmLite </li>
+  <li v-click> - Fluent </li>
+</ul>
 
 <div class="abs-tr m-6">
   <a href="https://culturait.com.ar/" target="_blank" alt="Cultura IT"
@@ -219,15 +219,25 @@ h1 {
 
 # Proyectos de CIT en .net
 
-* **PROSYS**
-  - Turismo
-  - Hoteleria
-* **GDM**
-  - Agricultura
-  - Investigación
-* **MAE**
-  - Economico
-
+<ul>
+  <li v-click class="font-bold"> PROSYS
+    <ul>
+      <li class="font-normal">Turismo</li>
+      <li class="font-normal">Hoteleria</li>
+    </ul>
+  </li>
+  <li v-click class="font-bold"> GDM
+    <ul>
+      <li class="font-normal">Agricultura</li>
+      <li class="font-normal">Investigación</li>
+    </ul>
+  </li>
+  <li v-click class="font-bold"> MAE
+    <ul>
+      <li class="font-normal">Hoteleria</li>
+    </ul>
+  </li>
+</ul>
 
 <div class="abs-tr m-6">
   <a href="https://culturait.com.ar/" target="_blank" alt="Cultura IT"
@@ -252,10 +262,17 @@ h1 {
 
 # Equipo SCRUM
 
-* **Análisis funcional y técnico**
-* **Desarrolladores**
-* **Testing**
-* **Integración/Despliegue**
+
+<ul>
+  <li v-click class="font-bold"> Análisis funcional y técnico
+  </li>
+  <li v-click class="font-bold"> Desarrolladores
+  </li>
+  <li v-click class="font-bold"> Testing
+  </li>
+  <li v-click class="font-bold"> Integración/Despliegue
+  </li>
+</ul>
 
 <div class="abs-tr m-6">
   <a href="https://culturait.com.ar/" target="_blank" alt="Cultura IT"
@@ -280,17 +297,26 @@ h1 {
 
 # Infraestructura
 
-* **Control de Versiones**
-  - Git
-  - TFS
-* **Server**
-  - On premise CIT (IIS)
-  - On premise Cliente (IIS)
-  - Cloud (Microsoft Azure): AppService, Blob Storage, SQL Database
-* **Canal de comunicación**
-  - Google Chat
-  - Discord
-
+<ul>
+  <li v-click class="font-bold"> Control de Versiones
+    <ul>
+      <li class="font-normal">Git</li>
+      <li class="font-normal">TFS</li>
+    </ul>
+  </li>
+  <li v-click class="font-bold"> Server
+    <ul>
+      <li class="font-normal">On premise CIT (IIS)</li>
+      <li class="font-normal">On premise Cliente (IIS)</li>
+      <li class="font-normal">Cloud (Microsoft Azure): AppService, Blob Storage, SQL Database</li>
+    </ul>
+  </li>
+  <li v-click class="font-bold"> Canal de comunicación
+    <ul>
+      <li class="font-normal">Discord</li>
+    </ul>
+  </li>
+</ul>
 
 <div class="abs-tr m-6">
   <a href="https://culturait.com.ar/" target="_blank" alt="Cultura IT"
