@@ -62,7 +62,7 @@ Somos parte del equipo de desarrolladores de Cultura IT
     :initial="{ x: -80, opacity: 0}"
     :enter="{ x: 0, opacity: 1, transition: { delay: 2000, duration: 1000 } }">
     <div class="text-3xl">Sergio Romano</div>
-    <div class="text-1xl">Desarrollador de Software .NET</div>
+    <div class="text-1xl">.NET Software Developer</div>
     <ul class="text-1xl">
       <li> Cultura IT
       </li>
@@ -80,7 +80,7 @@ Somos parte del equipo de desarrolladores de Cultura IT
       :initial="{ x: 800, y: -100, scale: 1.5, rotate: -50 }"
       :enter="final"
       class="absolute top-0 left-0 right-0 bottom-0"
-      src=""
+      src="https://i.ibb.co/ZTtWwqS/fede.jpg"
     />
   </div>
 
