@@ -1,7 +1,5 @@
 ---
 theme: seriph
-layout: image
-image: https://i.ibb.co/VCN6vrg/Group-1.png
 class: text-center
 highlighter: shiki
 lineNumbers: false
@@ -37,6 +35,12 @@ title: Café Virtual CIT
 <!--
 The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
 -->
+
+<style>
+.slidev-layout{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.333), rgba(0, 0, 0, 0.533)), url("https://i.ibb.co/VCN6vrg/Group-1.png");
+}
+</style>
 
 ---
 preload: false
