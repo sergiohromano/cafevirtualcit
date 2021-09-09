@@ -139,7 +139,7 @@ const final = {
 <div class="abs-tr m-6 -z-1">
   <a href="https://culturait.com.ar/" target="_blank" alt="Cultura IT"
     class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
-    <carbon-wikis />
+    <img src="https://i.ibb.co/kQQd2LT/logocit.png">
   </a>
 </div>
 
