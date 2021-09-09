@@ -1,8 +1,7 @@
 ---
 theme: seriph
 class: text-center
-layout: cover
-background: https://i.ibb.co/VCN6vrg/Group-1.png
+background: https://source.unsplash.com/user/sergiohromano
 highlighter: shiki
 lineNumbers: false
 info: |
