@@ -1,7 +1,7 @@
 ---
 theme: seriph
 layout: image
-image: https://source.unsplash.com/collection/94734566/1920x1080
+image: https://i.ibb.co/VCN6vrg/Group-1.png
 class: text-center
 highlighter: shiki
 lineNumbers: false
