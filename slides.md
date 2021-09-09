@@ -127,7 +127,8 @@ img{
 </style>
 ---
 
-# Stack Tecnológico (Fuerte)
+# Stack Tecnológico
+<v-clicks>
 - .NET Framework
 - .NET Core
 - SQL Server
@@ -140,6 +141,7 @@ img{
 - Sqlite
 - Entity + OrmLite
 - Fluent
+</v-clicks>
 
 <style>
 h1 {
@@ -154,11 +156,12 @@ h1 {
 </style>
 ---
 
-# Stack Tecnológico (Otros)
-
+# Stack Tecnológico
+<v-clicks>
 - .NET 5
 - Reactjs
 - Angularjs
+</v-clicks>
 
 <style>
 h1 {
@@ -174,7 +177,7 @@ h1 {
 ---
 
 # Proyectos de CIT en .net
-
+<v-clicks>
 * **PROSYS**
   - Turismo
   - Hoteleria
@@ -183,6 +186,7 @@ h1 {
   - Investigación
 * **MAE**
   - Economico
+</v-clicks>
 
 <style>
 h1 {
@@ -199,11 +203,12 @@ h1 {
 ---
 
 # Equipo SCRUM
-
+<v-clicks>
 * **Análisis funcional y técnico**
 * **Desarrolladores**
 * **Testing**
 * **Integración/Despliegue**
+</v-clicks>
 
 <style>
 h1 {
@@ -220,7 +225,7 @@ h1 {
 ---
 
 # Infraestructura
-
+<v-clicks>
 * **Control de Versiones**
   - Git
   - TFS
@@ -231,6 +236,7 @@ h1 {
 * **Canal de comunicación**
   - Google Chat
   - Discord
+</v-clicks>
 
 <style>
 h1 {
