@@ -23,11 +23,11 @@ title: Café Virtual CIT
 </div>
 
 <div class="abs-br m-6 flex gap-2">
-  <a href="https://culturait.com.ar/" target="_blank" alt="GitHub"
+  <a href="https://culturait.com.ar/" target="_blank" alt="Cultura IT"
     class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
     <carbon-wikis />
   </a>
-  <a href="https://www.linkedin.com/company/culturait/mycompany/" target="_blank" alt="GitHub"
+  <a href="https://www.linkedin.com/company/culturait/mycompany/" target="_blank" alt="LinkedIn"
     class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
     <carbon-logo-linkedin />
   </a>
@@ -68,6 +68,16 @@ Somos parte del equipo de desarrolladores de Cultura IT
       </li>
       <li> Ministerio de Educación
       </li>
+      <li>
+        <a href="https://www.linkedin.com/in/sergio-h-romano/" target="_blank" alt="GitHub"
+          class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
+          <carbon-logo-linkedin />
+        </a>
+        <a href="https://sergiohromano.vercel.app/" target="_blank" alt="LinkedIn"
+          class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
+          <carbon-wikis />
+        </a>
+      </li>
     </ul>
   </div>
 </div>
@@ -93,6 +103,12 @@ Somos parte del equipo de desarrolladores de Cultura IT
     <div class="text-1xl">Senior Software Engineer | Technical Leader</div>
     <ul class="text-1xl">
       <li> Cultura IT
+      </li>
+      <li>
+        <a href="https://www.linkedin.com/in/federico-gabriel-fia-sare-193709146/" target="_blank" alt="LinkedIn"
+          class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
+          <carbon-logo-linkedin />
+        </a>
       </li>
     </ul>
   </div>
