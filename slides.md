@@ -51,7 +51,7 @@ Somos parte del equipo de desarrolladores de Cultura IT
       v-motion
       :initial="{ x: 800, y: -100, scale: 1.5, rotate: -50 }"
       :enter="final"
-      class="absolute top-0 left-0 right-0 bottom-0"
+      class="pic absolute top-0 left-0 right-0 bottom-0"
       src="https://i.ibb.co/7RZqVT8/foto.jpg"
     />
   </div>
@@ -89,7 +89,7 @@ Somos parte del equipo de desarrolladores de Cultura IT
       v-motion
       :initial="{ x: 800, y: -100, scale: 1.5, rotate: -50 }"
       :enter="final"
-      class="absolute top-0 left-0 right-0 bottom-0"
+      class="pic absolute top-0 left-0 right-0 bottom-0"
       src="https://i.ibb.co/ZTtWwqS/fede.jpg"
     />
   </div>
@@ -139,12 +139,12 @@ const final = {
 <div class="abs-tr m-6 -z-1">
   <a href="https://culturait.com.ar/" target="_blank" alt="Cultura IT"
     class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
-    <img src="https://i.ibb.co/kQQd2LT/logocit.png">
+    <img width="48" height="48" src="https://i.ibb.co/kQQd2LT/logocit.png">
   </a>
 </div>
 
 <style>
-img{
+img.pic{
   clip-path: circle(40%);
 }
 </style>
@@ -165,6 +165,13 @@ img{
 - Entity + OrmLite
 - Fluent
 
+<div class="abs-tr m-6 -z-1">
+  <a href="https://culturait.com.ar/" target="_blank" alt="Cultura IT"
+    class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
+    <img width="48" height="48" src="https://i.ibb.co/kQQd2LT/logocit.png">
+  </a>
+</div>
+
 <style>
 h1 {
   background-color: #67a555;
@@ -183,6 +190,14 @@ h1 {
 - .NET 5
 - Reactjs
 - Angularjs
+
+
+<div class="abs-tr m-6 -z-1">
+  <a href="https://culturait.com.ar/" target="_blank" alt="Cultura IT"
+    class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
+    <img width="48" height="48" src="https://i.ibb.co/kQQd2LT/logocit.png">
+  </a>
+</div>
 
 <style>
 h1 {
@@ -208,6 +223,14 @@ h1 {
 * **MAE**
   - Economico
 
+
+<div class="abs-tr m-6 -z-1">
+  <a href="https://culturait.com.ar/" target="_blank" alt="Cultura IT"
+    class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
+    <img width="48" height="48" src="https://i.ibb.co/kQQd2LT/logocit.png">
+  </a>
+</div>
+
 <style>
 h1 {
   background-color: #67a555;
@@ -228,6 +251,13 @@ h1 {
 * **Desarrolladores**
 * **Testing**
 * **Integración/Despliegue**
+
+<div class="abs-tr m-6 -z-1">
+  <a href="https://culturait.com.ar/" target="_blank" alt="Cultura IT"
+    class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
+    <img width="48" height="48" src="https://i.ibb.co/kQQd2LT/logocit.png">
+  </a>
+</div>
 
 <style>
 h1 {
@@ -255,6 +285,14 @@ h1 {
 * **Canal de comunicación**
   - Google Chat
   - Discord
+
+
+<div class="abs-tr m-6 -z-1">
+  <a href="https://culturait.com.ar/" target="_blank" alt="Cultura IT"
+    class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
+    <img width="48" height="48" src="https://i.ibb.co/kQQd2LT/logocit.png">
+  </a>
+</div>
 
 <style>
 h1 {
