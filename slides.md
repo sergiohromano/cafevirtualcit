@@ -37,7 +37,7 @@ The last comment block of each slide will be treated as slide notes. It will be 
 -->
 
 <style>
-.slidev-layout{
+.slidev-page-1{
   background-image: linear-gradient(rgba(0, 0, 0, 0.333), rgba(0, 0, 0, 0.533)), url("https://i.ibb.co/VCN6vrg/Group-1.png");
 }
 </style>
@@ -128,6 +128,9 @@ const final = {
 <style>
 img{
   clip-path: circle(40%);
+}
+.slidev-page-2{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.333), rgba(0, 0, 0, 0.533)), url("https://i.ibb.co/VCN6vrg/Group-1.png");
 }
 </style>
 ---
