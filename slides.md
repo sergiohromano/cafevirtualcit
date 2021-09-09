@@ -57,7 +57,7 @@ Somos parte del equipo de desarrolladores de Cultura IT
   </div>
 
   <div 
-    class="w-100 text-3xl absolute top-2 left-50 text-[#2B90B6] -z-1"
+    class="w-100 text-3xl absolute top-2 left-50 text-[#2B90B6] z-0"
     v-motion
     :initial="{ x: -80, opacity: 0}"
     :enter="{ x: 0, opacity: 1, transition: { delay: 2000, duration: 1000 } }">
@@ -68,7 +68,7 @@ Somos parte del equipo de desarrolladores de Cultura IT
       </li>
       <li> Ministerio de Educación
       </li>
-      <li>
+      <div>
         <a href="https://www.linkedin.com/in/sergio-h-romano/" target="_blank" alt="GitHub"
           class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
           <carbon-logo-linkedin />
@@ -77,7 +77,7 @@ Somos parte del equipo de desarrolladores de Cultura IT
           class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
           <carbon-wikis />
         </a>
-      </li>
+      </div>
     </ul>
   </div>
 </div>
@@ -95,7 +95,7 @@ Somos parte del equipo de desarrolladores de Cultura IT
   </div>
 
   <div 
-    class="w-100 text-3xl absolute top-2 left-50 text-[#2B90B6] -z-1"
+    class="w-100 text-3xl absolute top-2 left-50 text-[#2B90B6] z-0"
     v-motion
     :initial="{ x: -80, opacity: 0}"
     :enter="{ x: 0, opacity: 1, transition: { delay: 2000, duration: 1000 } }">
@@ -104,12 +104,12 @@ Somos parte del equipo de desarrolladores de Cultura IT
     <ul class="text-1xl">
       <li> Cultura IT
       </li>
-      <li>
+      <div>
         <a href="https://www.linkedin.com/in/federico-gabriel-fia-sare-193709146/" target="_blank" alt="LinkedIn"
           class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
           <carbon-logo-linkedin />
         </a>
-      </li>
+      </div>
     </ul>
   </div>
 </div>
@@ -134,6 +134,13 @@ const final = {
   :initial="{ x:35, y: 40, opacity: 0}"
   :enter="{ y: 0, opacity: 1, transition: { delay: 3500 } }">
 
+</div>
+
+<div class="abs-tr m-6 -z-1">
+  <a href="https://culturait.com.ar/" target="_blank" alt="Cultura IT"
+    class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
+    <carbon-wikis />
+  </a>
 </div>
 
 <style>
