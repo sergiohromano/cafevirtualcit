@@ -1,14 +1,15 @@
 ---
 theme: seriph
-background: https://i.ibb.co/VCN6vrg/Group-1.png
+layout: image
+image: https://source.unsplash.com/collection/94734566/1920x1080
 class: text-center
 highlighter: shiki
 lineNumbers: false
 info: |
-  ## Slidev Starter Template
-  Presentation slides for developers.
+  ## Café Virtual CIT
+  Presentation for devs.
 
-  Learn more at [Sli.dev](https://sli.dev)
+  Visit us [Cultura IT](https://culturait.com.ar/)
 title: Café Virtual CIT
 ---
 
