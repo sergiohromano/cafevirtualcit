@@ -63,7 +63,7 @@ Somos parte del equipo de desarrolladores de Cultura IT
     :enter="{ x: 0, opacity: 1, transition: { delay: 2000, duration: 1000 } }">
     <div class="text-3xl">Sergio Romano</div>
     <div class="text-1xl italic">.NET Software Developer</div>
-    <ul class="list-disc text-1xl">
+    <ul class="!list-disc text-1xl">
       <li> Cultura IT
       </li>
       <li> Ministerio de Educación
@@ -101,7 +101,7 @@ Somos parte del equipo de desarrolladores de Cultura IT
     :enter="{ x: 0, opacity: 1, transition: { delay: 2000, duration: 1000 } }">
     <div class="text-3xl">Federico Fia Sare</div>
     <div class="text-1xl italic">Senior Software Engineer | Technical Leader</div>
-    <ul class="list-disc text-1xl">
+    <ul class="!list-disc text-1xl">
       <li> Cultura IT
       </li>
       <div>
@@ -152,7 +152,7 @@ img.pic{
 
 # Stack Tecnológico
 
-<ul class="list-disc">
+<ul class="!list-disc">
   <li v-click> .NET Framework </li>
   <li v-click> .NET Core </li>
   <li v-click> SQL Server </li>
@@ -190,7 +190,7 @@ h1 {
 # Stack Tecnológico
 
 
-<ul class="list-disc">
+<ul class="!list-disc">
   <li v-click> .NET 5 </li>
   <li v-click> Reactjs </li>
   <li v-click> Angularjs </li>
@@ -219,21 +219,21 @@ h1 {
 
 # Proyectos de CIT en .net
 
-<ul class="list-disc">
+<ul class="!list-disc">
   <li v-click class="font-bold"> PROSYS
-    <ul class="list-circle">
+    <ul class="!list-circle">
       <li class="font-normal">Turismo</li>
       <li class="font-normal">Hoteleria</li>
     </ul>
   </li>
   <li v-click class="font-bold"> GDM
-    <ul class="list-circle">
+    <ul class="!list-circle">
       <li class="font-normal">Agricultura</li>
       <li class="font-normal">Investigación</li>
     </ul>
   </li>
   <li v-click class="font-bold"> MAE
-    <ul class="list-circle">
+    <ul class="!list-circle">
       <li class="font-normal">Hoteleria</li>
     </ul>
   </li>
@@ -263,7 +263,7 @@ h1 {
 # Equipo SCRUM
 
 
-<ul class="list-disc">
+<ul class="!list-disc">
   <li v-click class="font-bold"> Análisis funcional y técnico
   </li>
   <li v-click class="font-bold"> Desarrolladores
@@ -297,22 +297,22 @@ h1 {
 
 # Infraestructura
 
-<ul class="list-disc">
+<ul class="!list-disc">
   <li v-click class="font-bold"> Control de Versiones
-    <ul class="list-circle">
+    <ul class="!list-circle">
       <li class="font-normal">Git</li>
       <li class="font-normal">TFS</li>
     </ul>
   </li>
   <li v-click class="font-bold"> Server
-    <ul class="list-circle">
+    <ul class="!list-circle">
       <li class="font-normal">On premise CIT (IIS)</li>
       <li class="font-normal">On premise Cliente (IIS)</li>
       <li class="font-normal">Cloud (Microsoft Azure): AppService, Blob Storage, SQL Database</li>
     </ul>
   </li>
   <li v-click class="font-bold"> Canal de comunicación
-    <ul class="list-circle">
+    <ul class="!list-circle">
       <li class="font-normal">Discord</li>
     </ul>
   </li>
