@@ -24,11 +24,11 @@ title: Café Virtual CIT
 
 <div class="abs-br m-6 flex gap-2">
   <a href="https://culturait.com.ar/" target="_blank" alt="Cultura IT"
-    class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
+    class="text-xl icon-btn opacity-50 !border-none !hover:text-green">
     <carbon-wikis />
   </a>
   <a href="https://www.linkedin.com/company/culturait/mycompany/" target="_blank" alt="LinkedIn"
-    class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
+    class="text-xl icon-btn opacity-50 !border-none !hover:text-green">
     <carbon-logo-linkedin />
   </a>
 </div>
@@ -70,11 +70,11 @@ Somos parte del equipo de desarrolladores de Cultura IT
       </li>
       <div>
         <a href="https://www.linkedin.com/in/sergio-h-romano/" target="_blank" alt="GitHub"
-          class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
+          class="text-xl icon-btn opacity-50 !border-none !hover:text-green">
           <carbon-logo-linkedin />
         </a>
         <a href="https://sergiohromano.vercel.app/" target="_blank" alt="LinkedIn"
-          class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
+          class="text-xl icon-btn opacity-50 !border-none !hover:text-green">
           <carbon-wikis />
         </a>
       </div>
@@ -106,7 +106,7 @@ Somos parte del equipo de desarrolladores de Cultura IT
       </li>
       <div>
         <a href="https://www.linkedin.com/in/federico-gabriel-fia-sare-193709146/" target="_blank" alt="LinkedIn"
-          class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
+          class="text-xl icon-btn opacity-50 !border-none !hover:text-green">
           <carbon-logo-linkedin />
         </a>
       </div>
@@ -136,7 +136,7 @@ const final = {
 
 </div>
 
-<div class="abs-tr m-6 -z-1">
+<div class="abs-tr m-6">
   <a href="https://culturait.com.ar/" target="_blank" alt="Cultura IT"
     class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
     <img width="48" height="48" src="https://i.ibb.co/kQQd2LT/logocit.png">
@@ -165,7 +165,7 @@ img.pic{
 - Entity + OrmLite
 - Fluent
 
-<div class="abs-tr m-6 -z-1">
+<div class="abs-tr m-6">
   <a href="https://culturait.com.ar/" target="_blank" alt="Cultura IT"
     class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
     <img width="48" height="48" src="https://i.ibb.co/kQQd2LT/logocit.png">
@@ -192,7 +192,7 @@ h1 {
 - Angularjs
 
 
-<div class="abs-tr m-6 -z-1">
+<div class="abs-tr m-6">
   <a href="https://culturait.com.ar/" target="_blank" alt="Cultura IT"
     class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
     <img width="48" height="48" src="https://i.ibb.co/kQQd2LT/logocit.png">
@@ -224,7 +224,7 @@ h1 {
   - Economico
 
 
-<div class="abs-tr m-6 -z-1">
+<div class="abs-tr m-6">
   <a href="https://culturait.com.ar/" target="_blank" alt="Cultura IT"
     class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
     <img width="48" height="48" src="https://i.ibb.co/kQQd2LT/logocit.png">
@@ -252,7 +252,7 @@ h1 {
 * **Testing**
 * **Integración/Despliegue**
 
-<div class="abs-tr m-6 -z-1">
+<div class="abs-tr m-6">
   <a href="https://culturait.com.ar/" target="_blank" alt="Cultura IT"
     class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
     <img width="48" height="48" src="https://i.ibb.co/kQQd2LT/logocit.png">
@@ -287,7 +287,7 @@ h1 {
   - Discord
 
 
-<div class="abs-tr m-6 -z-1">
+<div class="abs-tr m-6">
   <a href="https://culturait.com.ar/" target="_blank" alt="Cultura IT"
     class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
     <img width="48" height="48" src="https://i.ibb.co/kQQd2LT/logocit.png">
@@ -321,6 +321,14 @@ Visitanos en nuestra página [https://culturait.com.ar](https://culturait.com.ar
 
 O también por LinkedIn 
 [https://www.linkedin.com/company/culturait](https://www.linkedin.com/company/culturait/mycompany/)
+
+
+<div class="abs-tr m-6">
+  <a href="https://culturait.com.ar/" target="_blank" alt="Cultura IT"
+    class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
+    <img width="48" height="48" src="https://i.ibb.co/kQQd2LT/logocit.png">
+  </a>
+</div>
 
 <style>
 h1 {
