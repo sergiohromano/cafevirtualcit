@@ -152,18 +152,18 @@ img.pic{
 
 # Stack Tecnológico
 
-- .NET Framework
-- .NET Core
-- SQL Server
-- Vuejs
-- Razor pages + jQuery
-- Kendo framework
-- Bootstrap
-- Ionic
-- Angular 7
-- Sqlite
-- Entity + OrmLite
-- Fluent
+<div v-click> - .NET Framework </div>
+<div v-click> - .NET Core </div>
+<div v-click> - SQL Server </div>
+<div v-click> - Vuejs </div>
+<div v-click> - Razor pages + jQuery </div>
+<div v-click> - Kendo framework </div>
+<div v-click> - Bootstrap </div>
+<div v-click> - Ionic </div>
+<div v-click> - Angular 7 </div>
+<div v-click> - Sqlite </div>
+<div v-click> - Entity + OrmLite </div>
+<div v-click> - Fluent </div>
 
 <div class="abs-tr m-6">
   <a href="https://culturait.com.ar/" target="_blank" alt="Cultura IT"
