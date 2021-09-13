@@ -66,7 +66,7 @@ Somos parte del equipo de desarrolladores de Cultura IT
     <ul class="!list-disc text-1xl">
       <li> Cultura IT
       </li>
-      <li> Ministerio de Educación
+      <li> Ministerio de Educación de Tucumán
       </li>
       <div>
         <a href="https://www.linkedin.com/in/sergio-h-romano/" target="_blank" alt="GitHub"
