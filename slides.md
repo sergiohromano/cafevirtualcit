@@ -234,7 +234,7 @@ h1 {
   </li>
   <li v-click class="font-bold"> MAE
     <ul class="!list-circle">
-      <li class="font-normal">Hoteleria</li>
+      <li class="font-normal">Financiero</li>
     </ul>
   </li>
 </ul>
