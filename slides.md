@@ -70,7 +70,7 @@ Somos parte del equipo de desarrolladores de Cultura IT
       </li>
       <div>
         <a href="https://www.linkedin.com/in/sergio-h-romano/" target="_blank" alt="GitHub"
-          class="text-xl icon-btn opacity-50 !border-none !hover:text-green">
+          class="text-xl icon-btn opacity-50 !border-none !hover:text-green flex gap-2">
           <carbon-logo-linkedin />
           <span class="text-sm">https://www.linkedin.com/in/sergio-h-romano/</span>
         </a>
@@ -103,7 +103,7 @@ Somos parte del equipo de desarrolladores de Cultura IT
       </li>
       <div>
         <a href="https://www.linkedin.com/in/federico-gabriel-fia-sare-193709146/" target="_blank" alt="LinkedIn"
-          class="text-xl icon-btn opacity-50 !border-none !hover:text-green">
+          class="text-xl icon-btn opacity-50 !border-none !hover:text-green flex gap-2">
           <carbon-logo-linkedin />
           <span class="text-sm">https://www.linkedin.com/in/federico-gabriel-fia-sare-193709146/</span>
         </a>
