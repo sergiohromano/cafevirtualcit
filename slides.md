@@ -72,10 +72,7 @@ Somos parte del equipo de desarrolladores de Cultura IT
         <a href="https://www.linkedin.com/in/sergio-h-romano/" target="_blank" alt="GitHub"
           class="text-xl icon-btn opacity-50 !border-none !hover:text-green">
           <carbon-logo-linkedin />
-        </a>
-        <a href="https://sergiohromano.vercel.app/" target="_blank" alt="LinkedIn"
-          class="text-xl icon-btn opacity-50 !border-none !hover:text-green">
-          <carbon-wikis />
+          <span class="text-sm">https://www.linkedin.com/in/sergio-h-romano/</span>
         </a>
       </div>
     </ul>
@@ -108,6 +105,7 @@ Somos parte del equipo de desarrolladores de Cultura IT
         <a href="https://www.linkedin.com/in/federico-gabriel-fia-sare-193709146/" target="_blank" alt="LinkedIn"
           class="text-xl icon-btn opacity-50 !border-none !hover:text-green">
           <carbon-logo-linkedin />
+          <span class="text-sm">https://www.linkedin.com/in/federico-gabriel-fia-sare-193709146/</span>
         </a>
       </div>
     </ul>
@@ -153,18 +151,18 @@ img.pic{
 # Stack Tecnológico
 
 <ul class="!list-disc">
-  <li v-click> .NET Framework </li>
-  <li v-click> .NET Core </li>
-  <li v-click> SQL Server </li>
-  <li v-click> Vuejs </li>
-  <li v-click> Razor pages + jQuery </li>
-  <li v-click> Kendo framework </li>
-  <li v-click> Bootstrap </li>
-  <li v-click> Ionic </li>
-  <li v-click> Angular 7 </li>
-  <li v-click> Sqlite </li>
-  <li v-click> Entity + OrmLite </li>
-  <li v-click> Fluent </li>
+  <li> .NET Framework </li>
+  <li> .NET Core </li>
+  <li> SQL Server </li>
+  <li> Vuejs </li>
+  <li> Razor pages + jQuery </li>
+  <li> Kendo framework </li>
+  <li> Bootstrap </li>
+  <li> Ionic </li>
+  <li> Angular 7 </li>
+  <li> Sqlite </li>
+  <li> Entity + OrmLite </li>
+  <li> Fluent </li>
 </ul>
 
 <div class="abs-tr m-6">
@@ -191,9 +189,9 @@ h1 {
 
 
 <ul class="!list-disc">
-  <li v-click> .NET 5 </li>
-  <li v-click> Reactjs </li>
-  <li v-click> Angularjs </li>
+  <li> .NET 5 </li>
+  <li> Reactjs </li>
+  <li> Angularjs </li>
 </ul>
 
 
@@ -260,17 +258,29 @@ h1 {
 
 ---
 
-# Equipo SCRUM
+# Ciclo Normal de un PBI
 
 
 <ul class="!list-disc">
-  <li v-click class="font-bold"> Análisis funcional y técnico
+  <li v-click class="font-bold"> Refinamiento
   </li>
-  <li v-click class="font-bold"> Desarrolladores
+  <li v-click class="font-bold"> Estimación
   </li>
-  <li v-click class="font-bold"> Testing
+  <li v-click class="font-bold"> Planificación
   </li>
-  <li v-click class="font-bold"> Integración/Despliegue
+  <li v-click class="font-bold"> Construcción
+    <ul class="!list-circle">
+        <li class="font-normal">Diseño de solución</li>
+        <li class="font-normal">Implementación</li>
+        <li class="font-normal">Testing</li>
+    </ul>
+  </li>
+  <li v-click class="font-bold"> Integración y Despliegue
+    <ul class="!list-circle">
+        <li class="font-normal">Testing (Equipo de Testing - QC)</li>
+        <li class="font-normal">Staging (BA y Stakeholders - Acceptance)</li>
+        <li class="font-normal">Prod (Usuario Final)</li>
+    </ul>
   </li>
 </ul>
 
